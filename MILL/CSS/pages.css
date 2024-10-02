@@ -160,7 +160,7 @@ footer {
 body.dark {
     color: #f0f0f0;
     /* background-color: rgba(0, 0, 0, 1); Black overlay with 50% opacity */
-    background: url("/MILL/pages/home-dark.jpg") no-repeat center center fixed;
+    background: url("/MILL/pages/home-darkv2.jpg") no-repeat center center fixed;
     background-size: cover;
     display: flex;
     flex-direction: column;
