@@ -160,14 +160,14 @@ footer {
 body.dark {
     color: #f0f0f0;
     /* background-color: rgba(0, 0, 0, 1); Black overlay with 50% opacity */
-    background: url("/MILL/pages/home-darkv2.jpg") no-repeat center center fixed;
+    background: url("../pages/home-darkv2.jpg") no-repeat center center fixed;
     background-size: cover;
     display: flex;
     flex-direction: column;
 
     @media (max-width: 768px) {
         body {
-            background: url("/MILL/pages/home2-dark.jpg");
+/*             background: url("../pages/home2-dark.jpg"); */
         }
     }
     @media (max-width: 480px) {
